@@ -38,4 +38,5 @@ opposée à celle des 4 dés (4x[1] et 1x[6], ou 4x[4] et 1x[3], ou encore 4x[2]
 ou encore 2x[4] et 2x[5] et [6]) / / ils marquent la somme de chaque paire plus 15 points
 
 # Contributeurs
+Cyrille FRANCOIS
 Manu D
